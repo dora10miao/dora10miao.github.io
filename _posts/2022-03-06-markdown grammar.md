@@ -1,3 +1,13 @@
+---
+layout: post
+title: Markdown Grammar
+subtitle: 如何快速上手 markdown 语法？
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+---
+
 # <center>Markdown Grammar</center>
 source: *[Markdown Document](https://markdown.com.cn/basic-syntax/links.html#code)*
 
