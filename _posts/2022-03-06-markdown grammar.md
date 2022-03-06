@@ -20,7 +20,7 @@ a blank line<br>
 `<p></p>`
 
 ## Line Break
-*<u>Method One: add**\<br>**at the end.(Suggested)</u>*<br>
+*<u>Method One: add br tag at the end.(Suggested)</u>*<br>
 This is the first line.<br>And this is the second line.
 
 *<u>Method Two: two spaces + Enter</u>*<br>
