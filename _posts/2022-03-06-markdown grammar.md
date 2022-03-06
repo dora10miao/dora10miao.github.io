@@ -11,24 +11,25 @@ comments: true
 source: *[Markdown Document](https://markdown.com.cn/basic-syntax/links.html#code)*
 
 ## Heading
-\# `<h1></h1>`
-\## `<h2></h2>`
+\# `<h1></h1>`<br>
+\## `<h2></h2>`<br>
 ...
 
 ## Paragraph
-a blank line `<p></p>`
+a blank line<br>
+`<p></p>`
 
 ## Line Break
-*<u>Method One: add **\<br>** at the end.(Suggested)</u>*
+*<u>Method One: add **\<br>** at the end.(Suggested)</u>*<br>
 This is the third line.<br>And this is the fourth line.
 
-*<u>Method Two: two spaces + Enter</u>*
+*<u>Method Two: two spaces + Enter</u>*<br>
 This is the first line.  
 And this is the second line.
 
 ## Italic &  Bold
-\*italic* `<i>italic</i>` or `<em>italic</em>`
-\*\*bold** `<b>bold</b>` or `<strong>bold</strong>`
+\*italic* `<i>italic</i>` or `<em>italic</em>`<br>
+\*\*bold** `<b>bold</b>` or `<strong>bold</strong>`<br>
 \*\*\*both italic and bold*** `<b><i>both italic and bold</i></b>`
 
 ## Blockquote
@@ -36,15 +37,15 @@ And this is the second line.
 > blockquote
 
 ## OrderList
-\1.
+1.<br>
 `<ol><li></li></ol>`
 
 ## UnorderList
-\-
+\-<br>
 `<ul><li></li></ul>`
 
 ## Code
-\`\<p>\</p>\`
+\`\<p>\</p>\`<br>
 `<p></p>`
 
 ## Fenced Code Blocks
